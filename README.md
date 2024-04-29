@@ -8,5 +8,3 @@ These queries are the same as the ones posted in the folder above, but have been
 
 Estas consultas son las mismas de las publicadas en la carpeta "General_Queries", pero han sido traducidas al español.
 
-# Queries in Chinese
-These queries will showcase data in Chinese. They are different from the ones posted previously. 
